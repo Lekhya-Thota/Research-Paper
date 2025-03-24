@@ -8,7 +8,10 @@ This repository contains my research paper on AI-driven predictive models for re
 - Title: AI-Based Hospital Readmission Prediction  
 - Author: Lekhya Thota  
 - Topics Covered: Machine Learning, AI in Healthcare, Predictive Analytics  
-- Tools & Technologies Used: Python, Scikit-Learn, Data Analysis, Statistical Modeling  
+- Tools & Technologies Used: Python, Scikit-Learn, Data Analysis, Statistical Modeling
+
+- 📥 Download the Research Paper
+📄 [Click here to view/download the research paper](https://drive.google.com/file/d/1tnbnRksSRWn0sfxIWbvtsDHDjH9PhvFp/view?usp=sharing)  
 
  🚀 Why This Research Matters?
 - Predicts patient readmission risks using AI  
